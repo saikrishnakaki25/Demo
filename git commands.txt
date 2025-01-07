@@ -1,0 +1,8 @@
+1.In the browswer, if we want to run js or css files, we need to attach it with html files 
+
+2. git init
+   git add fname
+   git commit -m 'msg'
+   git remote add origin url
+   git push -u origin master
+   git clone url
